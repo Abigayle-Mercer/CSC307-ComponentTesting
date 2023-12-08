@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1702015262724" clover="3.2.0">
-  <project timestamp="1702015262724" name="All files">
+<coverage generated="1702015681558" clover="3.2.0">
+  <project timestamp="1702015681558" name="All files">
     <metrics statements="37" coveredstatements="33" conditionals="16" coveredconditionals="14" methods="13" coveredmethods="12" elements="66" coveredelements="59" complexity="0" loc="37" ncloc="37" packages="1" files="1" classes="1"/>
     <file name="Login.js" path="/Users/abigaylemercer/Desktop/CSC307-TestNoah/Component-Testing/components/Login.js">
       <metrics statements="37" coveredstatements="33" conditionals="16" coveredconditionals="14" methods="13" coveredmethods="12"/>
